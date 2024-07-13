@@ -1,0 +1,16 @@
+body {
+    font-family: 'Gill Sans'; /* Familia de fuentes */
+    font-size: 30px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #5988FF; /* El color del fondo de la página web */
+    color: #FFFFFF; /* El color del texto*/ 
+}
+h1 {
+    color: #D6FF6B; /* El color de la cabecera */
+    font-size: 50px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+h2 {
+    color: #FD98FB; /* El color de la cabecera */
+    font-size: 40px; /* El tamaño de la fuente de la cabecera */
+    font-family: sans-serif, serif; /* La familia tipográfica utilizada en la cabecera */
+}
